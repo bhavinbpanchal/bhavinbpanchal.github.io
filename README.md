@@ -6,4 +6,4 @@
   
 • Hosted it to Github pages and redirected it to a custom domain.
 
-# Demo : bhavinbpanchal.github.io
+# Demo : [bhavinbpanchal.github.io](https://bhavinbpanchal.github.io/)
